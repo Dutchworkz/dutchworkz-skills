@@ -1,4 +1,4 @@
-# DutchWorkz Agent Skills
+# DutchWorkz Plugin Marketplace
 
 > [!WARNING]
 > **⚠️ This repository exists for demo and educational purposes only.**
