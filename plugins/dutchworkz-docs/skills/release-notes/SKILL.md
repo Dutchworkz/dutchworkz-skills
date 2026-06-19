@@ -1,11 +1,11 @@
 ---
 name: release-notes
-description: Genereert release notes in het DutchWorkz-format. Gebruik bij releases, changelogs, versie-aankondigingen of wanneer gevraagd wordt om een overzicht van wijzigingen sinds de vorige versie of sprint.
+description: Genereert release notes in het Dutchworkz-format. Gebruik bij releases, changelogs, versie-aankondigingen of wanneer gevraagd wordt om een overzicht van wijzigingen sinds de vorige versie of sprint.
 ---
 
 # Release notes genereren
 
-Genereer release notes volgens het DutchWorkz-format wanneer de gebruiker vraagt om release notes, een changelog of een overzicht van wijzigingen.
+Genereer release notes volgens het Dutchworkz-format wanneer de gebruiker vraagt om release notes, een changelog of een overzicht van wijzigingen.
 
 ## Werkwijze
 

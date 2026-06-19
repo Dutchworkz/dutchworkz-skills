@@ -1,10 +1,10 @@
 ---
 name: adr
 version: 1.2.0
-description: Schrijft Architecture Decision Records (ADR's) volgens het DutchWorkz-format. Gebruik bij architectuurbeslissingen, technologie-keuzes, design decisions of wanneer gevraagd wordt een beslissing vast te leggen of te documenteren.
+description: Schrijft Architecture Decision Records (ADR's) volgens het Dutchworkz-format. Gebruik bij architectuurbeslissingen, technologie-keuzes, design decisions of wanneer gevraagd wordt een beslissing vast te leggen of te documenteren.
 ---
 
-# ADR's schrijven volgens DutchWorkz-format
+# ADR's schrijven volgens Dutchworkz-format
 
 Gebruik dit format wanneer de gebruiker een architectuurbeslissing wil vastleggen.
 

@@ -1,10 +1,10 @@
 # dutchworkz-docs
 
-DutchWorkz documentatie-conventies voor coding agents.
+Dutchworkz documentatie-conventies voor coding agents.
 
 ## Skills
 
-- **adr** — schrijft Architecture Decision Records volgens het DutchWorkz-format (Context / Overwogen opties / Beslissing / Consequenties), in het Nederlands, maximaal één A4.
+- **adr** — schrijft Architecture Decision Records volgens het Dutchworkz-format (Context / Overwogen opties / Beslissing / Consequenties), in het Nederlands, maximaal één A4.
 - **release-notes** — genereert release notes en changelogs gegroepeerd in Features / Fixes / Breaking changes / Overig. Gebruikt progressive disclosure: het volledige format staat in `skills/release-notes/references/format.md`, een voorbeeld in `skills/release-notes/examples/voorbeeld.md`.
 
 ## Installeren

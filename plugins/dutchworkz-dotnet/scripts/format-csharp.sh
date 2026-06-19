@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# DutchWorkz auto-format hook
+# Dutchworkz auto-format hook
 # Draait na elke Write/Edit-actie van de agent: formatteert .cs-bestanden
 # volgens de .editorconfig in de repo-root.
 

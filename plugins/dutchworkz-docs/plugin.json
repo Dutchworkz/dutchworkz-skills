@@ -1,6 +1,6 @@
 {
   "name": "dutchworkz-docs",
   "version": "2.0.0",
-  "description": "DutchWorkz documentatie-conventies: Architecture Decision Records en release notes volgens huisstijl.",
+  "description": "Dutchworkz documentatie-conventies: Architecture Decision Records en release notes volgens huisstijl.",
   "skills": ["./skills/"]
 }

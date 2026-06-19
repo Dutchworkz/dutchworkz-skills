@@ -1,12 +1,12 @@
 ---
 name: code-review
 version: 1.3.0
-description: Reviewt C#-code volgens DutchWorkz-standaarden. Gebruik bij pull-request-reviews, "review deze code", "kijk eens kritisch naar", of na elke significante wijziging. Geeft feedback op stijl, tests, naming en architectuur — schrijft zelf geen code, alleen commentaar.
+description: Reviewt C#-code volgens Dutchworkz-standaarden. Gebruik bij pull-request-reviews, "review deze code", "kijk eens kritisch naar", of na elke significante wijziging. Geeft feedback op stijl, tests, naming en architectuur — schrijft zelf geen code, alleen commentaar.
 ---
 
-# Code-review volgens DutchWorkz-standaarden
+# Code-review volgens Dutchworkz-standaarden
 
-Pas deze werkwijze toe wanneer je een pull request, een diff of een stuk code reviewt zoals een DutchWorkz-architect dat zou doen.
+Pas deze werkwijze toe wanneer je een pull request, een diff of een stuk code reviewt zoals een Dutchworkz-architect dat zou doen.
 
 ## Werkwijze
 
@@ -16,7 +16,7 @@ Pas deze werkwijze toe wanneer je een pull request, een diff of een stuk code re
    - 🚫 **Blocking** — moet weg vóór merge (bugs, security, contractbreuk, conventies overtreden)
    - 💡 **Suggesties** — sterke aanbeveling, maar niet blokkerend (refactor, betere abstractie)
    - 🌱 **Nits** — smaakdingen (naming-voorkeur, dubbele lege regel)
-4. Verwijs naar **concrete regelnummers** of bestanden in de feedback, en — waar relevant — naar de DutchWorkz-conventie (bijv. `skills/unit-tests/SKILL.md`).
+4. Verwijs naar **concrete regelnummers** of bestanden in de feedback, en — waar relevant — naar de Dutchworkz-conventie (bijv. `skills/unit-tests/SKILL.md`).
 5. Geef altijd **minimaal één compliment** over iets dat wél goed gaat. Reviews die alleen klagen worden genegeerd.
 
 ## Wat je NIET doet

@@ -1,18 +1,18 @@
-# DutchWorkz Plugin Marketplace
+# Dutchworkz Plugin Marketplace
 
 > [!WARNING]
 > **⚠️ This repository exists for demo and educational purposes only.**
-> It was built to accompany the DutchWorkz knowledge session *"Skills, plugins & marketplaces voor GitHub Copilot"*.
+> It was built to accompany the Dutchworkz knowledge session *"Skills, plugins & marketplaces voor GitHub Copilot"*.
 > The plugins and skills are **not production-ready**, are **not actively maintained**, and should **not be used in real projects**.
 
-This repository contains DutchWorkz's demo set of skills and custom agents for coding agents. For information about the Agent Skills standard, see [agentskills.io](https://agentskills.io).
+This repository contains Dutchworkz's demo set of skills and custom agents for coding agents. For information about the Agent Skills standard, see [agentskills.io](https://agentskills.io).
 
 ## What's Included
 
 | Plugin | Description |
 |--------|-------------|
-| [dutchworkz-dotnet](plugins/dutchworkz-dotnet/) | DutchWorkz .NET conventions: C# code review, xUnit unit tests, and an auto-format hook after every C# edit. |
-| [dutchworkz-docs](plugins/dutchworkz-docs/) | DutchWorkz documentation conventions: Architecture Decision Records (ADRs) and release notes. |
+| [dutchworkz-dotnet](plugins/dutchworkz-dotnet/) | Dutchworkz .NET conventions: C# code review, xUnit unit tests, and an auto-format hook after every C# edit. |
+| [dutchworkz-docs](plugins/dutchworkz-docs/) | Dutchworkz documentation conventions: Architecture Decision Records (ADRs) and release notes. |
 
 ## Installation
 

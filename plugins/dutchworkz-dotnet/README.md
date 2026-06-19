@@ -1,11 +1,11 @@
 # dutchworkz-dotnet
 
-DutchWorkz .NET-conventies voor coding agents.
+Dutchworkz .NET-conventies voor coding agents.
 
 ## Skills
 
-- **code-review** — reviewt C#-code volgens DutchWorkz-standaarden (blocking / suggesties / nits), schrijft commentaar, geen patches.
-- **unit-tests** — schrijft xUnit-tests met FluentAssertions en NSubstitute volgens het AAA-patroon en de DutchWorkz-naamgeving.
+- **code-review** — reviewt C#-code volgens Dutchworkz-standaarden (blocking / suggesties / nits), schrijft commentaar, geen patches.
+- **unit-tests** — schrijft xUnit-tests met FluentAssertions en NSubstitute volgens het AAA-patroon en de Dutchworkz-naamgeving.
 
 ## Hook
 
