@@ -16,6 +16,6 @@ DutchWorkz .NET-conventies voor coding agents.
 ## Installeren
 
 ```
-/plugin marketplace add <owner>/dutchworkz-copilot-skills-demo
-/plugin install dutchworkz-dotnet@dutchworkz-skills
+/plugin marketplace add <owner>/demo-skills
+/plugin install dutchworkz-dotnet@demo-skills
 ```

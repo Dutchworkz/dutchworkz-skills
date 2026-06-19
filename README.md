@@ -20,12 +20,12 @@ This repository contains DutchWorkz's demo set of skills and custom agents for c
 
 1. Add the marketplace:
    ```
-   /plugin marketplace add Dutchworkz/dutchworkz-skills
+   /plugin marketplace add Dutchworkz/demo-skills
    ```
 2. Install a plugin:
    ```
-   /plugin install dutchworkz-dotnet@dutchworkz-skills
-   /plugin install dutchworkz-docs@dutchworkz-skills
+   /plugin install dutchworkz-dotnet@demo-skills
+   /plugin install dutchworkz-docs@demo-skills
    ```
 3. Restart to load the new plugins.
 4. View available skills:
@@ -34,7 +34,7 @@ This repository contains DutchWorkz's demo set of skills and custom agents for c
    ```
 5. Update plugins on demand:
    ```
-   /plugin update dutchworkz-dotnet@dutchworkz-skills
+   /plugin update dutchworkz-dotnet@demo-skills
    ```
 
 ### VS Code / VS Code Insiders (Preview)
@@ -46,7 +46,7 @@ This repository contains DutchWorkz's demo set of skills and custom agents for c
 // settings.json
 {
   "chat.plugins.enabled": true,
-  "chat.plugins.marketplaces": ["Dutchworkz/dutchworkz-skills"]
+  "chat.plugins.marketplaces": ["Dutchworkz/demo-skills"]
 }
 ```
 
@@ -58,13 +58,13 @@ Skills in this repository follow the [agentskills.io](https://agentskills.io) op
 
 1. Add the marketplace:
    ```bash
-   codex plugin marketplace add Dutchworkz/dutchworkz-skills
+   codex plugin marketplace add Dutchworkz/demo-skills
    ```
 2. Launch Codex and open the plugin browser:
    ```
    /plugins
    ```
-3. Browse the `dutchworkz-skills` tab and install the desired plugins.
+3. Browse the `demo-skills` tab and install the desired plugins.
 
 ## Contributing
 

@@ -10,8 +10,8 @@ DutchWorkz documentatie-conventies voor coding agents.
 ## Installeren
 
 ```
-/plugin marketplace add <owner>/dutchworkz-copilot-skills-demo
-/plugin install dutchworkz-docs@dutchworkz-skills
+/plugin marketplace add <owner>/demo-skills
+/plugin install dutchworkz-docs@demo-skills
 ```
 
 ## Project-skill zonder install
