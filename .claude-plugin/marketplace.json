@@ -1,0 +1,24 @@
+{
+  "name": "dutchworkz-skills",
+  "owner": {
+    "name": "DutchWorkz"
+  },
+  "metadata": {
+    "description": "DutchWorkz-conventies voor coding agents, gebundeld als installeerbare plugins: .NET-codekwaliteit en documentatie.",
+    "version": "2.0.0"
+  },
+  "plugins": [
+    {
+      "name": "dutchworkz-dotnet",
+      "source": "./plugins/dutchworkz-dotnet",
+      "description": "DutchWorkz .NET-conventies: code-review, xUnit-unit-tests en een auto-format hook na elke C#-edit.",
+      "version": "2.0.0"
+    },
+    {
+      "name": "dutchworkz-docs",
+      "source": "./plugins/dutchworkz-docs",
+      "description": "DutchWorkz documentatie-conventies: Architecture Decision Records en release notes volgens huisstijl.",
+      "version": "2.0.0"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "dutchworkz-docs",
+  "description": "DutchWorkz documentatie-conventies als plugin: skills voor Architecture Decision Records (ADR's) en release notes volgens het DutchWorkz-format.",
+  "version": "2.0.0",
+  "author": {
+    "name": "DutchWorkz"
+  },
+  "license": "MIT",
+  "keywords": [
+    "adr",
+    "architecture",
+    "release-notes",
+    "changelog",
+    "documentation",
+    "dutchworkz"
+  ]
+}

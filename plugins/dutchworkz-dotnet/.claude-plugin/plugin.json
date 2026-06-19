@@ -1,0 +1,19 @@
+{
+  "name": "dutchworkz-dotnet",
+  "description": "DutchWorkz .NET-conventies als plugin: skills voor code-review en unit tests, plus een auto-format hook (dotnet format na elke C#-edit). Combineer met obra/superpowers voor de brainstorm- en TDD-workflow.",
+  "version": "2.0.0",
+  "author": {
+    "name": "DutchWorkz"
+  },
+  "license": "MIT",
+  "keywords": [
+    "dotnet",
+    "csharp",
+    "testing",
+    "xunit",
+    "code-review",
+    "api",
+    "dutchworkz"
+  ],
+  "hooks": "hooks/hooks.json"
+}

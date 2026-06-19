@@ -1,0 +1,21 @@
+{
+  "name": "dutchworkz-skills",
+  "owner": {
+    "name": "DutchWorkz"
+  },
+  "interface": {
+    "displayName": "DutchWorkz Skills"
+  },
+  "plugins": [
+    {
+      "name": "dutchworkz-dotnet",
+      "source": "./plugins/dutchworkz-dotnet",
+      "description": "DutchWorkz .NET-conventies: code-review, xUnit-unit-tests en een auto-format hook na elke C#-edit."
+    },
+    {
+      "name": "dutchworkz-docs",
+      "source": "./plugins/dutchworkz-docs",
+      "description": "DutchWorkz documentatie-conventies: Architecture Decision Records en release notes volgens huisstijl."
+    }
+  ]
+}
