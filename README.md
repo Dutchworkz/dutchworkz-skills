@@ -24,9 +24,12 @@ This repository contains Dutchworkz's demo set of skills and custom agents for c
    ```
 2. Install a plugin:
    ```
-   /plugin install dutchworkz-dotnet@skills-demo
-   /plugin install dutchworkz-docs@skills-demo
+   /plugin install dutchworkz-docs@dutchworkz-skills
    ```
+   ```
+   /plugin install dutchworkz-dotnet@dutchworkz-skills
+   ```
+
 3. Restart to load the new plugins.
 4. View available skills:
    ```
@@ -34,7 +37,7 @@ This repository contains Dutchworkz's demo set of skills and custom agents for c
    ```
 5. Update plugins on demand:
    ```
-   /plugin update dutchworkz-dotnet@skills-demo
+   /plugin update dutchworkz-dotnet@dutchworkz-skills
    ```
 
 ### VS Code / VS Code Insiders (Preview)
